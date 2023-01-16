@@ -24,8 +24,8 @@ export default [
         title: 'Minimal Portfolio',
         imgUrl: '/assets/react-minimal-portfolio.png',
         stack: ['React', 'Vite', 'Tailwind'],
-        linkCode: 'https://github.com/diegozencode/holberton-smiling-school',
-        link: 'https://diegozencode.github.io/holberton-smiling-school/homepage.html',
+        linkCode: 'https://github.com/diegozencode/minimal-portfolio',
+        link: 'https://diegozencode.com',
     },
     {
         title: 'RecruitMe',
