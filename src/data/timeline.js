@@ -6,12 +6,6 @@ export default [
         details: 'Recruited to support the development, optimization, upgrade, monitoring, maintenance, and administration of the Socio-economic Stratification Information Web Application.',
     },
     {
-        year: '2016',
-        title: 'Contract PHP Developer (Experience)',
-        duration: '5 years',
-        details: 'Recruited to create new web application modules for internal porpusses, automate tedious tasks to save time, keep the integrity of databases, and give support over the web application.',
-    },
-    {
         year: '2019',
         title: 'Full-Stack Software Engineer (Education)',
         duration: '2 years',
