@@ -1,8 +1,14 @@
 export default [
     {
         year: 'Today',
-        title: 'Contract Web Developer (Experience)',
+        title: 'Frontend Developer - Freelance (Experience)',
         duration: '1 years',
+        details: 'Design modern & professional websites from scratch, and turn the designs into fully functional websites.',
+    },
+    {
+        year: '2021',
+        title: 'Fullstack Developer - Contractor (Experience)',
+        duration: '2 years',
         details: 'Recruited to support the development, optimization, upgrade, monitoring, maintenance, and administration of the Socio-economic Stratification Information Web Application.',
     },
     {

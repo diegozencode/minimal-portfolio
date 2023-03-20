@@ -1,5 +1,12 @@
 export default [
     {
+        title: 'Floreciendo Ideas',
+        imgUrl: '/assets/floreciendoideas.png',
+        stack: ['Figma', 'WordPress', 'JavaScript'],
+        linkCode: 'https://www.floreciendoideas.com/',
+        link: 'https://www.floreciendoideas.com/',
+    },
+    {
         title: 'Google Homepage',
         imgUrl: '/assets/google-homepage.png',
         stack: ['HTML', 'CSS'],
